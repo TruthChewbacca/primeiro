@@ -12,6 +12,6 @@ class sub
       x = in.nextInt();
       y = in.nextInt();
       z = x - y;
-      System.out.println("Subtracao dos numeros = "+z);
+      System.out.println("Subtracao dos numeros = "+z "Ou não é esse o resultado...");
    }
 }
